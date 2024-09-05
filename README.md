@@ -31,7 +31,3 @@ This is a simple Todo List application. It allows users to manage their tasks by
 ## Contributing
 
 Feel free to submit issues and pull requests.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
